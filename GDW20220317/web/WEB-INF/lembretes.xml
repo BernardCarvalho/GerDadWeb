@@ -1,0 +1,30 @@
+<lembretes>
+    <lembrete>
+        <titulo>Prova</titulo>
+        <descricao>Prova Surpresa - próxima semana</descricao>
+        <local>Meet</local>
+        <data>31/02/2022</data>
+        <hora>20:00</hora>
+    </lembrete>
+    <lembrete>
+        <titulo>Comprar Pao</titulo>
+        <descricao>Não esquecer</descricao>
+        <local>Padaria</local>
+        <data>24/02/2022</data>
+        <hora>06:30</hora>
+    </lembrete>
+    <lembrete>
+        <titulo>Fazer Relatorio</titulo>
+        <descricao>Analisar os dados das vendas do último mês</descricao>
+        <local>Escritório</local>
+        <data>26/02/2022</data>
+        <hora>09:30</hora>
+    </lembrete>
+    <lembrete>
+        <titulo>Aula de JavaScript</titulo>
+        <descricao>Assistir palestra de JavaScript</descricao>
+        <local>Youtube</local>
+        <data>29/02/2022</data>
+        <hora>20:00</hora>
+    </lembrete>
+</lembretes>
